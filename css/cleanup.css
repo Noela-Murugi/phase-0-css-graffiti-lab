@@ -1,1 +1,25 @@
 /* write your override styles here */
+
+.class div #tag-6{
+    background-color: brown;
+    display: none;
+}
+#tag-3{
+    width: 200px;
+    background-color: red;
+}
+#tag-4{
+    width: 500px;
+    background-color: red;
+}
+#tag-5{
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+
+}
+#wall {
+    background:repeat;
+    z-index: 6;
+    display: inline-block;
+  }
